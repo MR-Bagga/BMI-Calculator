@@ -12,7 +12,7 @@ Click the "Calculate" button to get the BMI result.
 The BMI result and categorization will be displayed on the screen.
 
 # Info
-The BMI calculator provides information about the interpretation of BMI results, including the normal range and potential health implications. \For more information about BMI, please refer to the Wikipedia article on BMI.
+The BMI calculator provides information about the interpretation of BMI results, including the normal range and potential health implications.For more information about BMI, please refer to the Wikipedia article on BMI.
 
 # Technical Details
 The BMI Calculator app is built using the following technologies:
